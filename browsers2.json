@@ -1,0 +1,19 @@
+[{
+    "base": "BrowserStack",
+    "os_version": "10",
+    "browserName": "edge",
+    "browser_version": "14.0",
+    "device": null,
+    "os": "Windows"
+  },
+ 
+   {
+    "base": "BrowserStack",
+    "os_version": "10",
+    "browserName": "chrome",
+    "browser_version": "62.0",
+    "device": null,
+    "os": "Windows"
+   }
+  
+]
